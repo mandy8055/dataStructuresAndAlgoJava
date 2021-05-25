@@ -6,23 +6,30 @@ package data_structures.linked_list;
 * */
 public class DeleteLoopSLL {
     public static Node deleteLoopIfPresent(Node head){
-        Node hare = head;
-        Node tortoise = head;
-        while(hare != null && hare.next != null && tortoise != null){
-            hare = hare.next.next;
-            tortoise = tortoise.next;
-            if(hare == tortoise){
-                deleteLoop(head, tortoise);
-            }
+        Node fast = head;
+        Node slow = head;
+        while (fast != null && fast.next != null) {
+            fast = fast.next.next;
+            slow = slow.next;
+            if(fast == slow)
+                delete(head, slow);
         }
         return head;
     }
-    private static void deleteLoop(Node head, Node node){
-        Node temp = head;
-        while(temp.next != node.next){
-            temp = temp.next;
-            node = node.next;
+    private static void delete(Node head, Node slow){
+        if(slow == head){
+            while(slow.next != head){
+                slow = slow.next;
+            }
+            slow.next = null;
         }
-        node.next = null;
+        else{
+            Node temp = head;
+            while(temp.next != slow.next){
+                temp = temp.next;
+                slow = slow.next;
+            }
+            slow.next =  null;
+        }
     }
 }

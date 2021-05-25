@@ -1,5 +1,14 @@
 package data_structures.linked_list;
 
+/* Add below lines to RunnerClass.java run this class' methods
+*
+*        System.out.print("Linked list after applying merge sort: ");
+*       Node sortedSLL = MergeSortSLL.mergeSortLL(head);
+*      printLL(sortedSLL);
+* */
+
+
+
 public class MergeSortSLL {
     public static Node mergeSortLL(Node head){
         if(head.next == null){
@@ -14,7 +23,6 @@ public class MergeSortSLL {
         // Perform right side merge Sort
         Node newHead2 = mergeSortLL(head2);
         // Merge the list
-        Node finalHead = MergeKSortedSLL.mergeSLL(newHead1, newHead2);
-        return finalHead;
+        return MergeKSortedSLL.mergeSLL(newHead1, newHead2);
     }
 }

@@ -29,7 +29,4 @@ public class MergeKSortedSLL {
         }
         return merged.next;
     }
-
-
-
 }
