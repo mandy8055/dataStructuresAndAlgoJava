@@ -11,7 +11,7 @@ public class FindKMin {
 //        System.out.println(getKMin(arr, 0, arr.length - 1, 3));
         System.out.println(getKMinSec(arr,4));
     }
-
+    // Time complexity: O(n) best case and average case. O(n^2) worst case
     private static int getKMin(int[] arr, int low, int high, int k) {
         int partitions = partition(arr, low, high);
         if (partitions == k - 1) {
@@ -39,6 +39,12 @@ public class FindKMin {
         arr[high] = temp;
         return (i + 1);
     }
+
+    /*
+    1. Build heap for first k elements O(k)
+    2. Heapify (n-k) times in-order to get the kth element to the root of the max heap and return the result.
+    3. Total time complexity O(k + (n-k) * log k)
+    * */
     private static int getKMinSec(int[] arr, int k){
         PriorityQueue<Integer> priorityQueue = new PriorityQueue<>(Collections.reverseOrder());
         for (int j : arr) {

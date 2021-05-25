@@ -8,9 +8,6 @@ public class TournamentMethod {
     }
 
     // Total number of comparisons 3n/2 - 2, and time complexity O(n)
-
-
-
     public static void main(String[] args){
         MiniMax minAndMax = findMaxAndMin(ARRAY, 0, ARRAY.length - 1);
          System.out.println("The minimum element in the array is " + minAndMax.min + " and the maximum element in the array is " + minAndMax.max);
@@ -24,22 +21,14 @@ public class TournamentMethod {
             miniMax.min = arr[i];
             miniMax.max = arr[j];
         }else if(i == j - 1){ //Array contains two elements
-            if(arr[i] < arr[j]){
-                miniMax.min = arr[i];
-                miniMax.max = arr[j];
-            }else{
-                miniMax.min = arr[j];
-                miniMax.max = arr[i];
-            }
+            miniMax.min = Math.min(arr[i], arr[j]);
+            miniMax.max = Math.max(arr[i], arr[j]);
         }else{
             int mid = (int)(Math.floor(i + j) / 2);
             miniMaxLeft = findMaxAndMin(arr, i, mid);
             miniMaxRight = findMaxAndMin(arr, mid + 1, j);
-
-            if(miniMaxLeft.min < miniMaxRight.min)miniMax.min = miniMaxLeft.min;
-            else miniMax.min = miniMaxRight.min;
-            if(miniMaxLeft.max < miniMaxRight.max)miniMax.max = miniMaxRight.max;
-            else miniMax.max = miniMaxLeft.max;
+            miniMax.min = Math.min(miniMaxLeft.min, miniMaxRight.min);
+            miniMax.max = Math.max(miniMaxLeft.max, miniMaxRight.max);
         }
         return miniMax;
     }

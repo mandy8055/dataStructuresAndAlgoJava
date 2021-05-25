@@ -12,5 +12,6 @@ public class RunnerClass {
         printLL(head);
         System.out.print("Linked list after removing duplicates: ");
         printLL(RemoveDuplicatesInUnsortedSLL.removeDuplicates(head));
+
     }
 }
