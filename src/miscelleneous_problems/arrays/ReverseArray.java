@@ -13,6 +13,14 @@ public class ReverseArray {
         Arrays.stream(arr).forEach(num -> System.out.print(num + " "));
     }
 
+    public static void iterativeReverseResult(int @NotNull []arr, int start, int end){
+        iterativeReverseArr(arr, start, end);
+    }
+
+    public static void recursiveReverseResult(int @NotNull []arr, int start, int end){
+        recursiveReverseArr(arr, start, end);
+    }
+
     private static void iterativeReverseArr(int @NotNull []arr, int start, int end){
         while(start <= end){
             int temp = arr[start];
