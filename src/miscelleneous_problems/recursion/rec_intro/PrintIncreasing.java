@@ -1,4 +1,4 @@
-package miscelleneous_problems.recursion;
+package miscelleneous_problems.recursion.rec_intro;
 
 /*Question Link:https://classroom.pepcoding.com/myClassroom/the-switch-program-3/introduction-to-recursion/print-increasing-official/ojquestion
 *

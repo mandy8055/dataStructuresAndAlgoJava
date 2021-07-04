@@ -1,4 +1,4 @@
-package miscelleneous_problems.recursion;
+package miscelleneous_problems.recursion.rec_intro;
 
 import java.util.Scanner;
 

@@ -1,7 +1,6 @@
-package miscelleneous_problems.recursion;
+package miscelleneous_problems.recursion.rec_in_arrays;
 
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class SearchInArray {
     private static final int[] arr = {80, 5, 20, 50, 5, 90, 90, 23, 15, 90};

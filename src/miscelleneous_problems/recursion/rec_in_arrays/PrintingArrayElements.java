@@ -1,4 +1,4 @@
-package miscelleneous_problems.recursion;
+package miscelleneous_problems.recursion.rec_in_arrays;
 
 public class PrintingArrayElements {
     public static void main(String[] args){

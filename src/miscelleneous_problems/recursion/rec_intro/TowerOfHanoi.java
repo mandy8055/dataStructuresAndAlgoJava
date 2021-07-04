@@ -1,4 +1,4 @@
-package miscelleneous_problems.recursion;
+package miscelleneous_problems.recursion.rec_intro;
 import java.util.Scanner;
 /*Question link: https://classroom.pepcoding.com/myClassroom/the-switch-program-3/introduction-to-recursion/toh-official/ojquestion
 * */
