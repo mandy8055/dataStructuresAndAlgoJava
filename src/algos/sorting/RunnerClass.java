@@ -10,7 +10,9 @@ public class RunnerClass {
         System.out.println("Array after sorting");
 //        InsertionSort.insertionSort(arr);
 //        BubbleSort.bubbleSort(arr);
-        SelectionSort.selectionSort(arr);
+//        SelectionSort.selectionSort(arr);
+//        MergeSort.mergeSort(arr);
+        QuickSort.quickSort(arr);
         printArr();
     }
     private static void printArr(){

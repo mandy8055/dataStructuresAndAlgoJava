@@ -40,5 +40,4 @@ public class GetMazePaths {
         }
         return result;
     }
-
 }
