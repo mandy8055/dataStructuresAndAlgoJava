@@ -1,5 +1,6 @@
 package leet_code_problems.medium;
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
 
 public class Problem763 {
@@ -30,4 +31,40 @@ public class Problem763 {
         return res;
     }
     // Recursive Approach
+    public List<Integer> partitionLabelsRec(String s){
+        List<Integer> finRes = new ArrayList<>();
+        partitionRec(s, finRes);
+        return finRes;
+    }
+    private void partitionRec(String s, List<Integer> res) {
+        // Base case
+        if(s.isEmpty())return;
+        char ch = s.charAt(0);
+        // find the last occurrence of current char under consideration
+        int chIdx = s.lastIndexOf(ch);
+        // Create a Set to store the unique chars
+        HashSet<Character> hashSet = new HashSet<>();
+        boolean flag = true;
+        // Search a way to write this while loop properly. --> IDEA TO CODE CONVERSION IMPROVEMENT REQUIRED
+        while (flag){
+            // Store unique chars till the last occurrence of ch
+            for (int j = 0; j <= chIdx ; j++) {
+                hashSet.add(s.charAt(j));
+            }
+            flag = false;
+            // if any character other than current char under consideration is at larger distance move the boundary there
+            for (char c: hashSet) {
+                // When boundary changes(expands) then only flag becomes true
+                if (s.lastIndexOf(c) > chIdx){
+                    chIdx = s.lastIndexOf(c);
+                    flag = true;
+                }
+            }
+        }
+        // Add the result
+        res.add(chIdx + 1);
+        String ros = s.substring(chIdx + 1);
+        // recur till string s is empty
+        partitionRec(ros, res);
+    }
 }
