@@ -3,6 +3,8 @@ package data_structures.stack;
 import java.io.*;
 import java.util.Stack;
 
+// Problem link: https://classroom.pepcoding.com/myClassroom/the-switch-program-3/stack-and-queue/stock-span-official/ojquestion
+
 public class StockSpan {
     public static void display(int[] a) {
         StringBuilder sb = new StringBuilder();
