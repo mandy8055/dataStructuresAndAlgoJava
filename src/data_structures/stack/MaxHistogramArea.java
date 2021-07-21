@@ -6,7 +6,7 @@ import java.util.Stack;
 // Problem link: https://classroom.pepcoding.com/myClassroom/the-switch-program-3/stack-and-queue/lah-official/ojquestion
 
 public class MaxHistogramArea {
-    
+
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());
