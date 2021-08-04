@@ -12,23 +12,23 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 | Topic Name| Number of Problems Solved| 
 |  :--------: |  :--------: | 
-| [Math Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/miscelleneous_problems/math)|15|
-| [Pattern Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/patterns)|13|
-| [Array](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/miscelleneous_problems/arrays)|8|
-|[2D Array](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/data_structures/arrays_2d)|5|
-|[LinkedList](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/data_structures/linked_list)|14|
-|[Recursion](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/miscelleneous_problems/recursion)|15|
-|[Stack](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/data_structures/stack)|12|
-|[String](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/miscelleneous_problems/strings)|5|
-|[Tree](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/data_structures/tree)|7|
-|[LeetCode Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/leet_code_problems)|4|
-|[Project Euler Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/project_euler_problems)|1|
-|[Coding Bat problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/coding_bat_problems/recursion1)|30|
-|[Sorting And its Application](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/algos/sorting)|9|
-|[Searching And its application](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/algos/searching)|6|
-|[Dynamic Programming](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/algos/dynamic_programming)|13|
-|[Queue](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/data_structures/queue)|5|
-|[Sliding Window](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/algos/sliding_window)|2|
+| [Math Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/miscelleneous_problems/math)|15|
+| [Pattern Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/patterns)|13|
+| [Array](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/miscelleneous_problems/arrays)|8|
+|[2D Array](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/arrays_2d)|5|
+|[LinkedList](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/linked_list)|14|
+|[Recursion](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/miscelleneous_problems/recursion)|15|
+|[Stack](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/stack)|12|
+|[String](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/miscelleneous_problems/strings)|5|
+|[Tree](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/tree)|7|
+|[LeetCode Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/leet_code_problems)|11|
+|[Project Euler Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/project_euler_problems)|1|
+|[Coding Bat problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/coding_bat_problems/recursion1)|30|
+|[Sorting And its Application](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/algos/sorting)|9|
+|[Searching And its application](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/algos/searching)|6|
+|[Dynamic Programming](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/algos/dynamic_programming)|13|
+|[Queue](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/queue)|5|
+|[Sliding Window](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/algos/sliding_window)|2|
 
 
 
