@@ -42,10 +42,10 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 ## When to contribute?
 
-1. If there is no solution to a problem in the main branch.
-2. If your solution is asymptotically faster than the one in the main branch.
+1. If there is no solution to a problem in the master branch.
+2. If your solution is asymptotically faster than the one in the master branch.
 3. If your algorithm is of the same time complexity but with reduced LOC. In this case, comment out the original solution and make a pull request with your solution.
-4. If you have another method of solving the problem which is asymptotically slower than the original method then, comment your solution in the main file and make a pull request.
+4. If you have another method of solving the problem which is asymptotically slower than the original method then, comment your solution in the master file and make a pull request.
 
 
 ## What I'll be doing with this repository
