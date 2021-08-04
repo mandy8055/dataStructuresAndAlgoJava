@@ -6,9 +6,7 @@
 
 ## What you can find in this repository
 
-I have solved quite a number of problems from several topics. See the below table for further details. 
-
-[//]: # (Run the py script to generate the below table.)
+I have solved quite a number of problems from several topics and from several websites. See the below table for further details.
 
 | Topic Name| Number of Problems Solved| 
 |  :--------: |  :--------: | 
@@ -59,7 +57,7 @@ If you have any questions about the solutions you can find here, feel free to co
 
 
 ## License
-```xml
+```
 MIT License
 
 Copyright (c) 2021 Manuj Sankrit
