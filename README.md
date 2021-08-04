@@ -1,7 +1,5 @@
 # Data Structures and Algorithms in Java
-<p align="center">
-  <img src="https://miro.medium.com/max/1050/1*9QRFQdpO2f59GsN2KsE9XA.png">
-</p>
+[![UCk7x.md.jpg](https://i.im.ge/2021/08/05/UCk7x.md.jpg)](https://im.ge/i/UCk7x)
 
 
 ## What you can find in this repository
@@ -12,20 +10,23 @@ I have solved quite a number of problems from several topics. See the below tabl
 
 | Topic Name| Number of Problems Solved| 
 |  :--------: |  :--------: | 
-| [Java Basic](https://github.com/Marvel999/Data_Structure_Algo/tree/master/Pattern_question)|13|
-| [Patterns](https://github.com/Marvel999/Data_Structure_Algo/tree/master/Pattern_question)|20|
-| [Array](https://github.com/Marvel999/Data_Structure_Algo/tree/master/Array)|15|
-|[2D Array](https://github.com/Marvel999/Data_Structure_Algo/tree/master/TwoDimationalArray)|10|
-|[Pattern Question](https://github.com/Marvel999/Data_Structure_Algo/tree/master/Pattern_question)|10|
-|[LinkedList](https://github.com/Marvel999/Data_Structure_Algo/tree/master/LinkedList)|25|
-|[Recursion](https://github.com/Marvel999/Data_Structure_Algo/tree/master/Recursion)|20|
-|[Stack](https://github.com/Marvel999/Data_Structure_Algo/tree/master/Stacks)|15|
-|[String](https://github.com/Marvel999/Data_Structure_Algo/tree/master/String)|10|
-|[Generic Tree](https://github.com/Marvel999/Data_Structure_Algo/tree/master/Generic_Tree)|20|
-|[Binary Tree](https://github.com/Marvel999/Data_Structure_Algo/tree/master/Binary_Tree)|20|
-|[LeetCode Problems](https://github.com/Marvel999/Data_Structure_Algo/tree/master/Binary_Search_Tree)|20|
-|[Project Euler Problems](https://github.com/Marvel999/Data_Structure_Algo/tree/master/HashMap)|10|
-|[Coding Bat problems](https://github.com/Marvel999/Data_Structure_Algo/tree/master/Heaps)|10|
+| [Math Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/miscelleneous_problems/math)|15|
+| [Pattern Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/patterns)|13|
+| [Array](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/miscelleneous_problems/arrays)|8|
+|[2D Array](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/data_structures/arrays_2d)|5|
+|[LinkedList](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/data_structures/linked_list)|14|
+|[Recursion](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/miscelleneous_problems/recursion)|15|
+|[Stack](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/data_structures/stack)|12|
+|[String](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/miscelleneous_problems/strings)|5|
+|[Tree](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/data_structures/tree)|7|
+|[LeetCode Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/leet_code_problems)|4|
+|[Project Euler Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/project_euler_problems)|1|
+|[Coding Bat problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/coding_bat_problems/recursion1)|30|
+|[Sorting And its Application](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/algos/sorting)|9|
+|[Searching And its application](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/algos/searching)|6|
+|[Dynamic Programming](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/algos/dynamic_programming)|13|
+|[Queue](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/data_structures/queue)|5|
+|[Sliding Window](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/algos/sliding_window)|2|
 
 
 
