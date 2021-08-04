@@ -1,5 +1,5 @@
 # Data Structures and Algorithms in Java
-[![UCk7x.md.jpg](https://i.im.ge/2021/08/05/UCk7x.md.jpg)](https://im.ge/i/UCk7x)
+[![UCk7x.jpg](https://i.im.ge/2021/08/05/UCk7x.jpg)](https://im.ge/i/UCk7x)
 
 
 ## What you can find in this repository
