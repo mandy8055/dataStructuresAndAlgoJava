@@ -27,6 +27,8 @@ I have solved quite a number of problems from several topics and from several we
 |[Dynamic Programming](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/algos/dynamic_programming)|13|
 |[Queue](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/queue)|5|
 |[Sliding Window](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/algos/sliding_window)|2|
+|[HashMap](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/hashmap)|4|
+|[Heap](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/heap)|2|
 
 
 
