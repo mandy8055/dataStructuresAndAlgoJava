@@ -18,7 +18,8 @@ I have solved quite a number of problems from several topics and from several we
 |[Recursion](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/miscelleneous_problems/recursion)|15|
 |[Stack](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/stack)|12|
 |[String](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/miscelleneous_problems/strings)|5|
-|[Tree](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/tree)|13|
+|[Binary Tree](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/tree/binary_tree)|4|
+|[Generic Tree](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/tree/generic_tree)|8|
 |[LeetCode Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/leet_code_problems)|11|
 |[Project Euler Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/project_euler_problems)|1|
 |[Coding Bat problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/coding_bat_problems/recursion1)|30|

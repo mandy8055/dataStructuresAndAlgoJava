@@ -4,16 +4,6 @@ import org.jetbrains.annotations.NotNull;
 import java.util.Stack;
 
 public class ConstructAndDisplayBinaryTreeUsingArray {
-    public static class Node{
-        int data;
-        Node left;
-        Node right;
-        public Node(int data, Node left, Node right){
-            this.data = data;
-            this.left = left;
-            this.right = right;
-        }
-    }
     public static class Pair{
         Node treeNode;
         int state;
