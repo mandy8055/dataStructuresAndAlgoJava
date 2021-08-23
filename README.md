@@ -18,8 +18,9 @@ I have solved quite a number of problems from several topics and from several we
 |[Recursion](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/miscelleneous_problems/recursion)|15|
 |[Stack](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/stack)|12|
 |[String](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/miscelleneous_problems/strings)|5|
-|[Binary Tree](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/tree/binary_tree)|4|
-|[Generic Tree](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/tree/generic_tree)|8|
+|[Generic Tree](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/tree/generic_tree)|11|
+|[Binary Tree](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/tree/binary_tree)|8|
+|[Binary Search Tree](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/tree/binary_search_tree)|5|
 |[LeetCode Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/leet_code_problems)|11|
 |[Project Euler Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/project_euler_problems)|1|
 |[Coding Bat problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/coding_bat_problems/recursion1)|30|
@@ -52,7 +53,7 @@ I have solved quite a number of problems from several topics and from several we
 ## What I'll be doing with this repository
 
 One day in the foreseeable future I will have solved all the challenges on [PEPCoding](https://pepcoding.com/resources/).
-Then this repository will mostly become a static one.
+Then this repository will **mostly become** a static one. But still I'll be solving the problems on LeetCode and projectEuler as a hobby.
 
 Constructive criticisms or code reviews of any kind are very much welcome.
 

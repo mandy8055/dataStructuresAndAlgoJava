@@ -62,4 +62,19 @@ public class TraversalsInGenericTree {
             levelOrder2(q.peek());
         }
     }
+    public static void levelOrderLineWise1(Node node){
+        Queue<Node> q1 = new ArrayDeque<>();
+        Queue<Node> q2 = new ArrayDeque<>();
+        q1.add(node);
+        while(!q1.isEmpty()){
+            while(!q1.isEmpty()){
+                Node temp = q1.remove();
+                System.out.print(temp.data + " ");
+                q2.addAll(temp.children);
+            }
+            System.out.println();
+            q1 = q2;
+            q2 = new ArrayDeque<>();
+        }
+    }
 }
