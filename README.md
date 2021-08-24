@@ -1,6 +1,6 @@
 # Data Structures and Algorithms in Java
 <p align="center">
-  <img src=" https://miro.medium.com/max/3840/1*_gg1Te-7SJfk9E2D-mORfw.png">
+  <img src="https://github.com/mandy8055/dataStructuresAndAlgoJava/blob/master/image.jpg">
 </p>
 
 
