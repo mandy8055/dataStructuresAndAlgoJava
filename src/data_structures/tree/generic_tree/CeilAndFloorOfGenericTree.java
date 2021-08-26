@@ -3,8 +3,8 @@ package data_structures.tree.generic_tree;
 import org.jetbrains.annotations.NotNull;
 
 public class CeilAndFloorOfGenericTree {
-    private static int ceil;
-    private static int floor;
+    static int ceil;
+    static int floor;
     public static void ceilAndFloor(@NotNull Node node, int data) {
         if(node.data > data){
             ceil = Math.min(ceil, node.data);
