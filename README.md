@@ -21,11 +21,11 @@ I have solved quite a number of problems from several topics and from several we
 |[Generic Tree](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/tree/generic_tree)|23|
 |[Binary Tree](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/tree/binary_tree)|10|
 |[Binary Search Tree](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/tree/binary_search_tree)|8|
-|[LeetCode Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/leet_code_problems)|11|
+|[LeetCode Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/leet_code_problems)|14|
 |[Project Euler Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/project_euler_problems)|1|
 |[Coding Bat problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/coding_bat_problems/recursion1)|30|
 |[Sorting And its Application](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/algos/sorting)|9|
-|[Searching And its application](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/algos/searching)|6|
+|[Searching And its application](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/algos/searching)|9|
 |[Dynamic Programming](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/algos/dynamic_programming)|13|
 |[Queue](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/queue)|5|
 |[Sliding Window](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/algos/sliding_window)|2|

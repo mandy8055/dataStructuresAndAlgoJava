@@ -1,5 +1,7 @@
 package algos.searching.binary_search_applications;
 
+import org.jetbrains.annotations.NotNull;
+
 import java.util.ArrayList;
 
 public class FindFirstAndLastOccurrenceInArray {
@@ -16,12 +18,12 @@ public class FindFirstAndLastOccurrenceInArray {
         System.out.println(arrayList);
     }
     // Finding first occurrence
-    private static int modifiedBinarySearch(int[] arr, int searchElement, String id){
+    private static int modifiedBinarySearch(int @NotNull [] arr, int searchElement, String id){
         int low = 0;
         int high = arr.length - 1;
         int result = -1;
         while(low <= high){
-            int mid = (int)Math.floor((low + high) / 2);
+            int mid = low + ((high - low) / 2);
             if(arr[mid] == searchElement) {
                 result = mid;
                 if(id.equals("first"))
