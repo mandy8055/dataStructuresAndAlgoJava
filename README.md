@@ -21,7 +21,7 @@ I have solved quite a number of problems from several topics and from several we
 |[Generic Tree](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/tree/generic_tree)|23|
 |[Binary Tree](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/tree/binary_tree)|10|
 |[Binary Search Tree](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/tree/binary_search_tree)|8|
-|[LeetCode Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/leet_code_problems)|14|
+|[LeetCode Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/leet_code_problems)|16|
 |[Project Euler Problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/project_euler_problems)|1|
 |[Coding Bat problems](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/coding_bat_problems/recursion1)|30|
 |[Sorting And its Application](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/algos/sorting)|9|
@@ -31,7 +31,8 @@ I have solved quite a number of problems from several topics and from several we
 |[Sliding Window](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/algos/sliding_window)|2|
 |[HashMap](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/hashmap)|4|
 |[Heap](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/heap)|2|
-|[Graph](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/graph)|7|
+|[Graph](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/data_structures/graph)|12|
+|[Backtracking](https://github.com/mandy8055/dataStructuresAndAlgoJava/tree/master/src/algos/backtracking)|2|
 
 
 

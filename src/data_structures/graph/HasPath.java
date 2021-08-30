@@ -15,6 +15,9 @@ package data_structures.graph;
 import java.util.ArrayList;
 
 public class HasPath {
+    /*
+    * @params: visited : boolean array to keep track of the vertices that are already visited.
+    */
     public static boolean hasPath(ArrayList<Edge>[] graph, int src, int dest, boolean[] visited){
         // Base Case
         if(src == dest){

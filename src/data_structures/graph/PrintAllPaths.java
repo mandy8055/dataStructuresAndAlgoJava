@@ -15,7 +15,7 @@ package data_structures.graph;
 
 import java.util.ArrayList;
 public class PrintAllPaths {
-    /* @params asf : Answer so far which contains src vertex already appended to it.
+    /* @params asf : String type answer so far which contains src vertex already appended to it.
     *  @params visited: boolean array to keep track of the vertices that are already visited.
     * */
     public static void printAllPaths(ArrayList<Edge>[] graph, int src, int dest, boolean[] visited, String asf){ // answer so far.
